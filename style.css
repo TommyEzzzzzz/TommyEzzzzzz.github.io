@@ -1,0 +1,19 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  text-align: justify;
+  font-style: Arial;
+  background-image: url('https://img.freepik.com/free-vector/white-abstract-background_23-2148810113.jpg');
+}
+
+h2{
+  color: darkcyan
+}
+
+iframe{
+  height: 100%;
+  width: auto;
+}
+
